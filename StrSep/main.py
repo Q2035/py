@@ -23,3 +23,4 @@ def str_convert():
 
 if __name__ == '__main__':
     print(str_convert())
+    input()
